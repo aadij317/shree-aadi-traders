@@ -1,63 +1,45 @@
 # Shree Aadi Traders
 
-A responsive business website for **Shree Aadi Traders**, a hardware and building materials store.
+![Website](https://img.shields.io/badge/Website-Live-success)
+![HTML5](https://img.shields.io/badge/HTML5-Frontend-orange)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-blue)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen)
 
-## 🌐 Live Demo
+## 🏢 About
 
-GitHub Pages:
+**Shree Aadi Traders** is a modern and responsive business website developed for a hardware and building materials store. The website is designed to provide customers with a clean, professional, and user-friendly experience while showcasing the business, products, and contact information.
+
+## 🌐 Live Website
+
+### Official Website
+https://shreeaaditraders.in
+
+### GitHub Pages
 https://aadij317.github.io/shree-aadi-traders/
 
-## 📌 Features
+## ✨ Features
 
-- Responsive design
-- Modern business landing page
-- Product showcase
-- Contact information section
-- Mobile-friendly layout
-- Fast loading static website
+- Modern and professional design
+- Fully responsive layout
+- Mobile-friendly interface
+- Fast-loading static website
+- Business information showcase
+- Product and service presentation
+- Contact section for customer inquiries
+- Clean UI and smooth user experience
 
-## 🛠️ Built With
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
+- Responsive Web Design
 
 ## 📂 Project Structure
 
-```
+```text
 shree-aadi-traders/
 │
 ├── index.html
-└── README.md
-```
-
-## 🚀 Deployment
-
-This website is deployed using **GitHub Pages**.
-
-To run locally:
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/aadij317/shree-aadi-traders.git
-```
-
-2. Open `index.html` in your browser.
-
-## 📞 Business Information
-
-**Shree Aadi Traders**
-
-Hardware & Building Materials Store
-
-Providing quality hardware products and construction materials with reliable service.
-
-## 👨‍💻 Author
-
-**Aadi Jain**
-
-GitHub: https://github.com/aadij317
-
----
-
-© Shree Aadi Traders. All rights reserved.
+├── README.md
+│
+└── Assets (if added in future)
